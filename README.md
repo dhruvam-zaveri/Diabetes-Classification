@@ -9,7 +9,7 @@ In this problem you are given a Diabetes Data set consisting of the following fe
 ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness',
 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
 and your task is to predict whether a person is suffering from diabetes or not (Binary Classification)
-Tasks
+#### Tasks
 1) Plot a bar graph showing number of classes and no of examples in each class.
 2) Classification Task, classify a person as a 0 or 1 (Diabetic or Not) using K-Nearest Neighbors
 classifier.
